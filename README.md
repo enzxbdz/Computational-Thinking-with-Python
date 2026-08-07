@@ -1,68 +1,109 @@
-# CPE-311 : Computational Thinking with Python
-## Hello World, I’m Lorenzo Gabriel “Enzo” Bermudez
+# Computational Thinking with Python
 
-Welcome to my public GitHub repository for **CPE-311: Computational Thinking with Python**. This repository serves as a centralized workspace for my academic submissions, hands-on activities, and programming exercises throughout the course.
+This repository contains my coursework, hands-on activities, and programming implementations for **CPE 311 - Computational Thinking with Python**.
 
-Each hands-on activity and project is organized into its own dedicated folder to ensure clear structure, version control, and long-term reference. This repository is intended to function both as a submission platform and as a personal academic archive.
-
----
-
-## About Me
-
-My name is **Lorenzo Gabriel Bermudez**, and I go by **Enzo**. I am **22 years old** and currently a **Computer Engineering sophomore** at **Technological Institute of the Philippines – Quezon City**.
-
-I chose Computer Engineering out of a strong interest in understanding how software and hardware interact at a fundamental level. I am particularly interested in how abstract concepts such as predictive modeling, machine learning, logic, and data structures that translate into real-world systems and practical applications.
-
-At this stage of my academic journey, I am focused on developing disciplined problem-solving habits, improving my programming fundamentals, and gaining hands-on experience through academic coursework and projects. I value learning processes that emphasize clarity, and a solid conceptual foundation, but possess curiosity for shortcuts or quick-solutions.
-
-Outside of formal coursework, I enjoy playing games and thinking about how they are built beyond what is visible on the screen. I often find myself overanalyzing how mechanics, systems, and interactions are programmed, from high-level design decisions down to small implementation details. This habit naturally feeds my curiosity about how software behaves under the hood and influences how I approach learning and problem-solving.
+The repository documents my development of computational problem-solving skills through algorithm design, optimization techniques, data analysis workflows, visualization, and introductory machine learning applications using Python.
 
 ---
 
-## Purpose of This Repository
+## 📌 Course Overview
 
-The purpose of this repository is to:
+**Computational Thinking with Python** explores how computational methods can be applied to analyze problems, develop algorithms, process data, and create solutions for real-world applications.
 
-* Store all **hands-on activities and academic submissions** related to CPE-311  
-* Maintain a **clean, consistent, and organized folder structure**  
-* Practice **proper documentation, version control, and code organization**  
-* Build a **traceable record of technical growth** over the duration of the course  
+The course covers:
 
-This repository is designed to show continuity and progression in my understanding of computational thinking using Python.
-
----
-
-## Repository Structure
-
-The general structure of this repository follows the format below:
-
-```
-/activity-name-or-number
-  ├── source files
-  ├── supporting files (if any)
-  └── README or notes 
-```
-
-
-This structure may be adjusted depending on the complexity of activities or specific course requirements, but consistency and readability will be maintained as much as possible.
+- Computational thinking principles
+- Algorithm design and optimization
+- Problem decomposition and abstraction
+- Dynamic programming techniques
+- Data analysis and visualization
+- Statistical foundations
+- Data collection and preparation
+- Introduction to machine learning
+- Data storytelling and analytics tools
 
 ---
 
-## Academic Interests
+## 🛠️ Tools & Technologies
 
-My academic interests center on understanding how software and hardware systems interact in practice. I am particularly interested in programming and algorithmic problem-solving using Python, data structures and logic design, and introductory concepts in predictive modeling and machine learning. I am also drawn to systems-level topics such as computer architecture and networking, especially where theoretical concepts are applied through hands-on engineering work.
+### Programming & Data Analysis
+- Python
+- Jupyter Notebook
+- Google Colab
+- Pandas
+- NumPy
+
+### Data Visualization
+- Matplotlib
+- Seaborn
+- Tableau
+
+### Data Collection
+- Requests
+- BeautifulSoup
+- Selenium
+- APIs
+
+### Machine Learning
+- Scikit-learn
+- Linear Regression
+- Logistic Regression
 
 ---
 
-## Notes
+## 📚 Topics Covered
 
-This repository is maintained as a **public academic record** for transparency, accountability, and learning purposes. All content reflects my ongoing development as a Computer Engineering student, and some implementations may prioritize conceptual understanding and course requirements over full optimization.
+### Computational Thinking & Algorithms
+- Introduction to Computational Thinking and Optimization
+- Knapsack Problem
+- Logical Thinking and Algorithmic Thinking
+- Problem Solving and Decomposition
+- Abstraction and Modeling
+- Top-Down and Bottom-Up Decomposition
+- Tower of Hanoi Problem
+- Sequence Alignment
+- Bellman-Ford Algorithm
+- Dynamic Programming with Python
 
-The repository will continue to evolve throughout the semester as new activities, revisions, and improvements are added.
+### Data Analysis & Statistics
+- Solving Real-World Problems using Computational Thinking
+- Fundamentals of Data Analysis
+- Sampling and Descriptive Statistics
+- Prediction and Forecasting
+- Inferential Statistics
+- Introduction to Data Analysis Tools in Python
+- Dataset Selection and Exploration
+- Data Understanding and Preparation
 
-— Cheers, **Enzo**.
+### Data Collection & Data Wrangling
+- Python Pandas
+- Data Wrangling with Pandas
+- Data Collection through APIs
+- Data Cleaning
+- Reshaping Data for Analysis
+- Handling Missing Data
+- Web Scraping with BeautifulSoup, Requests, and Selenium
+- DataFrame Operations
+- Aggregation, Querying, and Merging DataFrames
+- Time Series Data Analysis
 
+### Data Visualization & Analytics
+- Data Visualization using Pandas and Matplotlib
+- Pandas Plotting Subpackage
+- Introduction to Seaborn
+- Visualization Formatting and Customization
+- Data Analysis using Python
+- Data Storytelling and Advanced Analytics
+- Tableau Data Visualization
+- SAP Analytics and Storyboarding
 
+### Machine Learning Fundamentals
+- Introduction to Machine Learning
+- Linear Regression
+- Logistic Regression
+- Real-world Data Analysis Applications
+- Improving RT-IoT2022 Analysis
 
+---
 
-
+## 📂 Repository Structure
